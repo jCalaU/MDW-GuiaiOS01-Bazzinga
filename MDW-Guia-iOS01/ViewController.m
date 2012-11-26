@@ -14,6 +14,7 @@
 
 - (IBAction)cambiarEtiqueta:(id)sender
 {
+    // Cambia texto en la etiqueta
     miEtiqueta.text = @"Bazzinga!";
 }
 
